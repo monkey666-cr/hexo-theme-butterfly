@@ -55,7 +55,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /img/02ac4d20d71afeb2d8f7c11e36d492fb.avif
   effect: false
 
 # Disable all banner images
@@ -287,7 +287,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/monkey666-cr
   card_announcement:
     enable: true
     content: This is my Blog
